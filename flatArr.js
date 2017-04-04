@@ -2,7 +2,9 @@
   Function to create random array with nested Arrays for testing
 */
 
-//Helper Function
+/*
+  Helper Function to generate random numbers;
+*/
 function getRandNum() {
   return Math.floor((Math.random() * 14));
 }
